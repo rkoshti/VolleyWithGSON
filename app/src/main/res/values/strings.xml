@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VolleySample</string>
+    <string name="action_settings">Settings</string>
+    <string name="get_request">Get Request</string>
+    <string name="post_request">Post Request</string>
+    <string name="get_jsonarray">Get JSONArray</string>
+    <string name="get_string">Get String</string>
+    <string name="load_network_image">NetworkImageView</string>
+    <string name="imageview">ImageView</string>
+</resources>
