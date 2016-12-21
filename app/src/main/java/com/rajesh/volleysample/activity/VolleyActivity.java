@@ -138,6 +138,7 @@ public class VolleyActivity extends AppCompatActivity implements View.OnClickLis
                 VolleyImageAsycHandler.loadImageviewFromURL("http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
                         ivLoadImage);
 
+
                 break;
         }
 

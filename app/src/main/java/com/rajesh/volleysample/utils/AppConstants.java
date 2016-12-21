@@ -8,8 +8,8 @@ public class AppConstants {
 
     //Urls
    // public static final String BASE_URL = "http://reqres.in/api/";
-    public static final String POST_URL = "http://reqres.in/api/login";
-    public static final String GET_URL = "http://reqres.in/api/users?page=2";
+    public static final String POST_URL = "https://reqres.in/api/login";
+    public static final String GET_URL = "https://reqres.in/api/users?page=2";
     public static final String JSON_ARRAY_URL = "http://api.androidhive.info/volley/person_array.json";
 
     //Request Tags
